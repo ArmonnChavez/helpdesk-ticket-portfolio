@@ -16,14 +16,13 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 - **Escalations (Tier 2):** broader diagnostics across identity, endpoint, certificates, and cloud
 - **Troubleshooting:** isolating root causes and verifying fixes
 
-## Featured Tickets
+## Ticket Write-Ups
 
 | Ticket | Category | Write-up |
 |--------|----------|----------|
-| Looks like locked-out accounts, but none are locked | Identity | [View](tickets/01-false-lockout.md) |
-| Mass lockout caused by clock drift | Identity | [View](tickets/02-clock-drift.md) |
-| Offboarding: close all access | Identity | [View](tickets/03-offboarding.md) |
-| Computer asking for BitLocker recovery key | Endpoint | [View](tickets/04-bitlocker.md) |
+| #1241: "Account locked" errors, but no accounts locked | Identity | [View](tickets/01-false-lockout.md) |
+
+More write-ups are being added as I work through scenarios.
 
 ## How Each Write-Up Is Structured
 
