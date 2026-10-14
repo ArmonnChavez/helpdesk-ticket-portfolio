@@ -26,6 +26,7 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 | #1007: Unable to print | Endpoint | [View](tickets/04-printing.md) |
 | #1053: Network drive M: is gone | Endpoint | [View](tickets/05-mapped-drive.md) |
 | #1052: Computer asking for BitLocker recovery key | Endpoint | [View](tickets/06-bitlocker.md) |
+| #1027: David missing Teams and Outlook | Cloud / Licensing | [View](tickets/08-missing-license.md) |
 More write-ups are being added as I work through scenarios.
 
 ## How Each Write-Up Is Structured
