@@ -21,6 +21,7 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 | Ticket | Category | Write-up |
 |--------|----------|----------|
 | #1241: "Account locked" errors, but no accounts locked | Identity | [View](tickets/01-false-lockout.md) |
+| #1002: Anna cannot log in (locked account) | Identity | [View](tickets/02-locked-account.md) |
 
 More write-ups are being added as I work through scenarios.
 
