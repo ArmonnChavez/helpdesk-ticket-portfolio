@@ -24,6 +24,7 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 | #1002: Anna cannot log in (locked account) | Identity | [View](tickets/02-locked-account.md) |
 | #1237: User cannot open shared folder | Permissions | [View](tickets/03-shared-folder.md) |
 | #1007: Unable to print | Endpoint | [View](tickets/04-printing.md) |
+| #1053: Network drive M: is gone | Endpoint | [View](tickets/05-mapped-drive.md) |
 More write-ups are being added as I work through scenarios.
 
 ## How Each Write-Up Is Structured
