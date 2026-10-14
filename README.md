@@ -28,6 +28,8 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 | #6: Computer asking for BitLocker recovery key | Endpoint | [View](tickets/06-bitlocker.md) |
 | #7: David missing Teams and Outlook | Cloud / Licensing | [View](tickets/08-missing-license.md) |
 | #8: Computers getting no IP addresses (DHCP stopped) | Networking | [View](tickets/09-dhcp-no-ip.md) |
+
+| #10: Promotion, Erik Karlsson moves from Sales to IT | User lifecycle / IAM | [View](tickets/10-promotion.md) |
 More write-ups are being added as I work through scenarios.
 
 ## How Each Write-Up Is Structured
