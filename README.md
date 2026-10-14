@@ -4,17 +4,17 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 
 ## Progress
 
-- **30 scenarios completed**
-- Identity & Directory Services: 16/16
-- Client & Endpoint: 5/5
-- Service Desk Technician path: 22/22
+- **Completed paths:** Service Desk Technician (22/22), Identity & Directory Services (16/16), Client & Endpoint (5/5)
+- **In progress:** Helpdesk Tier 2 / Escalations (14/29)
+- **Total scenarios solved:** 30
 
 ## Skills Demonstrated
 
-- Active Directory: account creation, lockouts, group membership, RBAC
-- User lifecycle: onboarding, role changes, offboarding
-- Endpoint support: BitLocker, mapped drives, updates, printing
-- Troubleshooting: isolating root causes and verifying fixes
+- **Active Directory:** account creation, lockouts, group membership, RBAC
+- **User lifecycle:** onboarding, role changes, offboarding
+- **Endpoint support:** BitLocker, mapped drives, updates, printing
+- **Escalations (Tier 2):** broader diagnostics across identity, endpoint, certificates, and cloud
+- **Troubleshooting:** isolating root causes and verifying fixes
 
 ## Featured Tickets
 
