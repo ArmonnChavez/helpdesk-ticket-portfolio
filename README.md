@@ -23,6 +23,7 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 | #1241: "Account locked" errors, but no accounts locked | Identity | [View](tickets/01-false-lockout.md) |
 | #1002: Anna cannot log in (locked account) | Identity | [View](tickets/02-locked-account.md) |
 | #1237: User cannot open shared folder | Permissions | [View](tickets/03-shared-folder.md) |
+| #1007: Unable to print | Endpoint | [View](tickets/04-printing.md) |
 More write-ups are being added as I work through scenarios.
 
 ## How Each Write-Up Is Structured
