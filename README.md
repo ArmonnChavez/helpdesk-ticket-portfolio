@@ -15,7 +15,7 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 - **Endpoint support:** BitLocker, mapped drives, updates, printing
 - **Escalations (Tier 2):** broader diagnostics across identity, endpoint, certificates, and cloud
 - **Troubleshooting:** isolating root causes and verifying fixes
-
+**Networking:** DHCP, APIPA addresses, DNS and network checks
 ## Ticket Write-Ups
 
 | Ticket | Category | Write-up |
