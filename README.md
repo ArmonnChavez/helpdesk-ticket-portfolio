@@ -6,7 +6,7 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 
 - **Completed paths:** Service Desk Technician (22/22), Identity & Directory Services (16/16), Client & Endpoint (5/5)
 - **In progress:** Helpdesk Tier 2 / Escalations (14/29)
-- **Total scenarios solved:** 57
+- **Total scenarios solved:** 40
 
 ## Skills Demonstrated
 
