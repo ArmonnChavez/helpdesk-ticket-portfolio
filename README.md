@@ -11,11 +11,13 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 ## Skills Demonstrated
 
 - **Active Directory:** account creation, lockouts, group membership, RBAC
-- **User lifecycle:** onboarding, role changes, offboarding
+- **User lifecycle:** onboarding, role changes (mover), offboarding (leaver)
 - **Endpoint support:** BitLocker, mapped drives, updates, printing
+- **Networking:** DHCP, APIPA addresses, DNS and network checks
+- **Windows services and logs:** Event Viewer analysis, Print Spooler, Time Sync
 - **Escalations (Tier 2):** broader diagnostics across identity, endpoint, certificates, and cloud
 - **Troubleshooting:** isolating root causes and verifying fixes
-**Networking:** DHCP, APIPA addresses, DNS and network checks
+
 ## Ticket Write-Ups
 
 | Ticket | Category | Write-up |
@@ -30,6 +32,7 @@ Troubleshooting write-ups for common IT support scenarios: Active Directory, ide
 | #8: David missing Teams and Outlook | Cloud / Licensing | [View](tickets/08-missing-license.md) |
 | #9: Computers getting no IP addresses (DHCP stopped) | Networking | [View](tickets/09-dhcp-no-ip.md) |
 | #10: Promotion, Erik Karlsson moves from Sales to IT | User lifecycle / IAM | [View](tickets/10-promotion.md) |
+
 More write-ups are being added as I work through scenarios.
 
 ## How Each Write-Up Is Structured
@@ -38,4 +41,4 @@ Issue → Troubleshooting steps → Root cause → Resolution → Verification a
 
 ## About
 
-I'm transitioning into IT support from a customer service background, with a goal of growing into identity and access management. Connect with me on [LinkedIn](https://linkedin.com/in/Armonnchavez).
+I'm transitioning into IT support from a customer service background, with a goal of growing into identity and access management. Connect with me on [LinkedIn](https://linkedin.com/in/Armonnchavez).stomer service background, with a goal of growing into identity and access management. Connect with me on [LinkedIn](https://linkedin.com/in/Armonnchavez).
