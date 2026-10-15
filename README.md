@@ -41,4 +41,4 @@ Issue → Troubleshooting steps → Root cause → Resolution → Verification a
 
 ## About
 
-I'm transitioning into IT support from a customer service background, with a goal of growing into identity and access management. Connect with me on [LinkedIn](https://linkedin.com/in/Armonnchavez).stomer service background, with a goal of growing into identity and access management. Connect with me on [LinkedIn](https://linkedin.com/in/Armonnchavez).
+I'm transitioning into IT support from a customer service background, with a goal of growing into identity and access management. Connect with me on [LinkedIn](https://linkedin.com/in/Armonnchavez).
