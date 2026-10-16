@@ -1,4 +1,4 @@
-# Ticket #1027: David Missing Teams and Outlook
+# Ticket #8: David Missing Teams and Outlook
 
 **Category:** Cloud / M365 Licensing
 **Difficulty:** Easy
