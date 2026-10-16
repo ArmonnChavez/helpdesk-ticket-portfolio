@@ -1,4 +1,4 @@
-# Ticket #1216: Computers Getting No IP Addresses (DHCP Service Stopped)
+# Ticket #9: Computers Getting No IP Addresses (DHCP Service Stopped)
 
 **Category:** Networking / DHCP
 **Difficulty:** Easy
