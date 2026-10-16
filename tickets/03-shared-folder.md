@@ -1,4 +1,4 @@
-# Ticket #1237: User Cannot Open Shared Folder
+# Ticket #3: User Cannot Open Shared Folder
 
 **Category:** Permissions / File Shares
 **Difficulty:** Easy
