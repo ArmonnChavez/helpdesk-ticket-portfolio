@@ -1,4 +1,4 @@
-# Ticket #1238: Offboarding, Sara Ek Leaves Today (Close All Access)
+# Ticket #7: Offboarding, Sara Ek Leaves Today (Close All Access)
 
 **Category:** User Lifecycle / Identity and Access
 **Difficulty:** Hard
