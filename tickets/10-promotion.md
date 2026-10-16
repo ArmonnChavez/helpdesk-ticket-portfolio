@@ -1,4 +1,4 @@
-# Ticket #1239: Promotion, Erik Karlsson Moving from Sales to IT
+# Ticket #10: Promotion, Erik Karlsson Moving from Sales to IT
 
 **Category:** User Lifecycle / Identity and Access
 **Difficulty:** Hard
