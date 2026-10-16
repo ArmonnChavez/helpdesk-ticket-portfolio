@@ -1,4 +1,4 @@
-# Ticket #1052: Computer Asking for BitLocker Recovery Key
+# Ticket #6: Computer Asking for BitLocker Recovery Key
 
 **Category:** Endpoint / Encryption
 **Difficulty:** Medium
