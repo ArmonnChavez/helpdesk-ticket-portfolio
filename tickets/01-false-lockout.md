@@ -1,4 +1,4 @@
-# Ticket #1241: "Account is locked" Errors, but No Accounts Locked
+# Ticket #1: "Account is locked" Errors, but No Accounts Locked
 
 **Category:** Identity / Authentication
 **Difficulty:** Hard
