@@ -1,4 +1,4 @@
-# Ticket #1007: Unable to Print
+# Ticket #4: Unable to Print
 
 **Category:** Endpoint / Services
 **Difficulty:** Easy
