@@ -1,4 +1,4 @@
-# Ticket #1002: Anna Cannot Log In (Locked Account)
+# Ticket #2: Anna Cannot Log In (Locked Account)
 
 **Category:** Identity / Authentication
 **Difficulty:** Easy
